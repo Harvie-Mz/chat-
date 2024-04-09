@@ -1,0 +1,17 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "chatServer": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "chatServer",
+    "password": "",
+    "name": "chatServer",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
